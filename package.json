@@ -1,0 +1,24 @@
+{
+  "name": "playwrightwithjavascript",
+  "version": "1.0.0",
+  "description": "Config files for my GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PothulaNarasimhulu/PlaywrightWithJavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PothulaNarasimhulu/PlaywrightWithJavaScript/issues"
+  },
+  "homepage": "https://github.com/PothulaNarasimhulu/PlaywrightWithJavaScript#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1"
+  }
+}
